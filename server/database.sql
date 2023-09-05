@@ -1,0 +1,6 @@
+-- Active: 1692930749771@@127.0.0.1@5432@todo1
+CREATE DATABASE todo1;
+CREATE TABLE todo1(todo_id SERIAL PRIMARY KEY,
+description  VARCHAR (255))
+
+
